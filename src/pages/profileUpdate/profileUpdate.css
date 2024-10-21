@@ -63,3 +63,17 @@
   font-size: 16px;
   cursor: pointer;
 }
+
+@media (max-width:900px) {
+  .profile-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: fit-content;
+
+  } 
+  .profile-pic {
+    display: none;
+  }
+}
