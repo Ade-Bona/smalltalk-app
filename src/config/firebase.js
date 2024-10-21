@@ -6,7 +6,7 @@ import { toast } from "react-toastify";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: import.meta.env.VITE_API_KEY,
+  apiKey: "AIzaSyDtejiOhxdFGOJssbh8BpJg77V16ZEmmRI",
   authDomain: "smalltalk-643ef.firebaseapp.com",
   projectId: "smalltalk-643ef",
   storageBucket: "smalltalk-643ef.appspot.com",
